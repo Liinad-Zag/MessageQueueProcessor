@@ -1,5 +1,5 @@
-// Зависимости из библиотеки rapidjson
-#include "rapidjson\include\rapidjson\rapidjson.h"
-#include "rapidjson\include\rapidjson\document.h"		
-#include "rapidjson\include\rapidjson\stringbuffer.h"	
-#include "rapidjson\include\rapidjson\prettywriter.h"
+// Р’РєР»СЋС‡РµРЅРёРµ Р·Р°РіРѕР»РѕРІРѕС‡РЅС‹С… С„Р°Р№Р»РѕРІ rapidjson
+#include "rapidjson.h"
+#include "document.h"		
+#include "stringbuffer.h"	
+#include "prettywriter.h"
